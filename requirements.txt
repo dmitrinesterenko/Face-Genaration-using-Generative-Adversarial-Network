@@ -1,0 +1,6 @@
+numpy
+jupyter
+Pillow>=5.4.0
+tqdm>=4.28
+matplotlib>=3.0
+tensorflow-gpu>=1.12
